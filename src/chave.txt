@@ -1,3 +1,0 @@
-Sua chave de API: 083a98ef10eaba9674b5394f
-Exemplo de solicitação: https://v6.exchangerate-api.com/v6/083a98ef10eaba9674b5394f/latest/USD
-
