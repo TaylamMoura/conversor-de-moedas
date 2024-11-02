@@ -2,6 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+chave.txt
 
 ### Eclipse ###
 .apt_generated
