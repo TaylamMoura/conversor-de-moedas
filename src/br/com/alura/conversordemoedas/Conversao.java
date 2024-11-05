@@ -1,8 +1,5 @@
 package br.com.alura.conversordemoedas;
 
-
-import java.util.Map;
-
 public class Conversao {
     private String result;
     private String base_code;
