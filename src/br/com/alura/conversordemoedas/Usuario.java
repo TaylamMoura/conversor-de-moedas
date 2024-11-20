@@ -14,7 +14,8 @@ public class Usuario {
                     4) Real Brasileiro ---> Dólar Canadense;
                     5) Real Brasileiro ---> Iene Japonês;
                     6) Dólar Americano ---> Real Brasileiro;
-                    7) SAIR. """);
+                    7) Ver HISTÓRICO DE CONVERSÕES;
+                    8) SAIR. """);
     }
 
     public int opcaoDigitada() {
