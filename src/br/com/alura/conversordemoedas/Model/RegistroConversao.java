@@ -1,4 +1,4 @@
-package br.com.alura.conversordemoedas;
+package br.com.alura.conversordemoedas.Model;
 
 public class RegistroConversao {
     private String moedaOrigem;

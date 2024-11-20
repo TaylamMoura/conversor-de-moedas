@@ -1,4 +1,6 @@
-package br.com.alura.conversordemoedas;
+package br.com.alura.conversordemoedas.Model;
+
+import br.com.alura.conversordemoedas.Service.ApiConexao;
 
 import java.text.DecimalFormat;
 import java.util.HashMap;

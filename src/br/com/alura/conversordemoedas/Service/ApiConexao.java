@@ -1,4 +1,4 @@
-package br.com.alura.conversordemoedas;
+package br.com.alura.conversordemoedas.Service;
 
 
 import com.google.gson.JsonObject;

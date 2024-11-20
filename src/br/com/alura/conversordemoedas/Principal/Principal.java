@@ -1,4 +1,8 @@
-package br.com.alura.conversordemoedas;
+package br.com.alura.conversordemoedas.Principal;
+
+import br.com.alura.conversordemoedas.Model.RegistroConversao;
+import br.com.alura.conversordemoedas.Model.ConversorMoeda;
+import br.com.alura.conversordemoedas.Model.Usuario;
 
 import java.util.ArrayList;
 import java.util.List;
