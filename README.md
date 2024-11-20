@@ -2,7 +2,8 @@
 <h4 align="center">
 > :construction: Projeto finalizado :construction:
 </h4>
- > *Este projeto faz parte do Challenge Conversor de Moedas da Alura - ONE (Oracle Next Education).*
+
+  > *Este projeto faz parte do Challenge Conversor de Moedas da Alura - ONE (Oracle Next Education).*
 
 ## *Visão Geral*
 - Este projeto é um conversor de moedas que permite aos usuários converter valores entre diferentes moedas utilizando taxas de câmbio atualizadas de uma API externa. O projeto foi desenvolvido em Java e inclui um menu interativo para facilitar a navegação e a utilização das funcionalidades.
